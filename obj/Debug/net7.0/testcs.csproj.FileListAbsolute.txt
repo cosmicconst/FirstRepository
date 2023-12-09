@@ -1,0 +1,15 @@
+C:\Users\schoo\code\testcs\bin\Debug\net7.0\testcs.exe
+C:\Users\schoo\code\testcs\bin\Debug\net7.0\testcs.deps.json
+C:\Users\schoo\code\testcs\bin\Debug\net7.0\testcs.runtimeconfig.json
+C:\Users\schoo\code\testcs\bin\Debug\net7.0\testcs.dll
+C:\Users\schoo\code\testcs\bin\Debug\net7.0\testcs.pdb
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\testcs.csproj.AssemblyReference.cache
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\testcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\testcs.AssemblyInfoInputs.cache
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\testcs.AssemblyInfo.cs
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\testcs.csproj.CoreCompileInputs.cache
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\testcs.dll
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\refint\testcs.dll
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\testcs.pdb
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\testcs.genruntimeconfig.cache
+C:\Users\schoo\code\testcs\obj\Debug\net7.0\ref\testcs.dll
